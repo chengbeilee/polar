@@ -22,6 +22,8 @@ public class YamlDemo1 {
 		classOne.put("Polar", "96");
 		classOne.put("Jack", "85");
 		classTwo.put("Rose", "83");
+		classTwo.put("Gauss", "100");
+		classTwo.put("Euler", "99");
 		score.put("classOne", classOne);
 		score.put("classTwo", classTwo);
 		root.put("score", score);
